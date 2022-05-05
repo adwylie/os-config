@@ -1,0 +1,17 @@
+[user]
+        name = Andrew
+        email = email@example.com
+
+[core]
+        autocrlf = false
+        editor = vim
+        safecrlf = true
+        quotepath = false
+
+[color]
+        branch = auto
+        diff = auto
+        status = auto
+
+[push]
+        default = current

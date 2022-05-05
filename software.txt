@@ -1,0 +1,23 @@
+# List of applications to install on new OS setup.
+abiword
+borg
+deadbeef
+freecad
+gimp
+gnumeric
+gradle
+inkscape
+jetbrains-toolbox
+keepassxc
+ledger
+librecad
+openvpn
+picard
+steam
+transmission-gtk
+vim
+vlc
+vnstat
+wget
+zeal
+zim
