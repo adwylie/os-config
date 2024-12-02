@@ -77,6 +77,9 @@ shntool
 flac
 wavpack
 
+libdvd-pkg         # Required to play DVDs (copy-protection).
+                   # After installation run 'dpkg-reconfigure libdvd-pkg'.
+
 
 # Server
 
