@@ -1,0 +1,33 @@
+# Applications
+
+## Installers
+hhkb
+musicbrainz-picard
+steam
+
+
+## Brew
+borgbackup
+git
+helm
+kubernetes-cli
+ledger
+nvm
+openjdk
+wget
+
+## Brew Casks
+chromium
+discord
+firefox
+gimp
+iterm2
+keepassxc
+orbstack
+vscodium
+
+
+# Configuration
+
+- vscodium extensions
+- zsh brew completions
