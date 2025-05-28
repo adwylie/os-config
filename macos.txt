@@ -17,7 +17,7 @@ openjdk
 wget
 
 ## Brew Casks
-chromium
+chromium (w/ --no-quarantine flag)
 discord
 firefox
 font-fira-code
