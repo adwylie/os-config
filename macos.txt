@@ -20,6 +20,7 @@ wget
 chromium
 discord
 firefox
+font-fira-code
 gimp
 iterm2
 keepassxc
