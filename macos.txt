@@ -24,6 +24,7 @@ gimp
 iterm2
 keepassxc
 orbstack
+temurin
 vscodium
 
 
