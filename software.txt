@@ -19,6 +19,7 @@ python3-venv
 vim
 # Install VS Code using the package provided on their site.
 vs-code
+fonts-firacode
 ```
 
 
