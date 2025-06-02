@@ -13,7 +13,8 @@ helm
 kubernetes-cli
 ledger
 nvm
-openjdk
+pnpm
+talosctl
 wget
 
 ## Brew Casks
