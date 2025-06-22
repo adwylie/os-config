@@ -63,6 +63,7 @@ rawtherapee
 smartmontools
 steam-installer
 syncplay
+syncthing
 transmission
 vlc
 wget

@@ -14,6 +14,7 @@ kubernetes-cli
 ledger
 nvm
 pnpm
+syncthing
 talosctl
 wget
 
