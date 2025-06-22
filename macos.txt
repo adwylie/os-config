@@ -26,6 +26,7 @@ font-fira-code
 gimp
 iterm2
 keepassxc
+libreoffice-still
 orbstack
 temurin
 vscodium
