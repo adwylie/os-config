@@ -33,5 +33,10 @@ vscodium
 
 # Configuration
 
-- vscodium extensions
+- vscodium
+  - color theme
+  - extensions
 - zsh brew completions
+- iTerm2
+  - Profiles > Colors > Color Presets...
+  - Profiles > Keys > Key Bindings > Presets... > Natural Text Editing
