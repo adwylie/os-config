@@ -9,6 +9,7 @@ steam
 ## Brew
 borgbackup
 git
+gnuplot
 helm
 kubernetes-cli
 ledger
