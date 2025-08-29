@@ -1,6 +1,7 @@
 # Applications
 
 ## Installers
+filezilla
 hhkb
 musicbrainz-picard
 steam
@@ -8,6 +9,8 @@ steam
 
 ## Brew
 borgbackup
+eye-d3
+ffmpeg
 git
 gnuplot
 helm
@@ -15,6 +18,7 @@ kubernetes-cli
 ledger
 nvm
 pnpm
+shntool
 syncthing
 talosctl
 wget
@@ -24,16 +28,21 @@ chromium (w/ --no-quarantine flag)
 discord
 firefox
 font-fira-code
+foobar2000
 gimp
 iterm2
+ivpn
 keepassxc
 libreoffice-still
 orbstack
+qbittorrent
 temurin
 vscodium
 
 
 # Configuration
+
+## Applications
 
 - vscodium
   - color theme
@@ -42,3 +51,19 @@ vscodium
 - iTerm2
   - Profiles > Colors > Color Presets...
   - Profiles > Keys > Key Bindings > Presets... > Natural Text Editing
+- musicbrainz-picard
+  - destination directory
+  - file naming script:
+    ```
+    $if2(%albumartist%,%artist%) - %album% $if(%originalyear%,\(%originalyear%\),)/
+    $if($gt(%totaldiscs%,1),%discnumber%-)$num(%tracknumber%,2). %artist% - %title%
+    ```
+
+
+## Media
+
+When setting up "Movies", "Music", and "Pictures" open the corresponding MacOS application
+and ensure that files will not be moved or copied to the libraries.
+Instead, create a "content" directory under each of the media directories to contain our media.
+This folder can then be directly backed up to/from Borg,
+and organized by 3rd-party tagging applications (such as MusicBrainz Picard).
