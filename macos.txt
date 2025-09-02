@@ -30,10 +30,13 @@ firefox
 font-fira-code
 foobar2000
 gimp
+handbrake-app
+iina
 iterm2
 ivpn
 keepassxc
 libreoffice-still
+makemkv
 orbstack
 qbittorrent
 temurin
