@@ -21,6 +21,7 @@ pnpm
 shntool
 syncthing
 talosctl
+watch
 wget
 
 ## Brew Casks
