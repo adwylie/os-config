@@ -23,6 +23,7 @@ syncthing
 talosctl
 watch
 wget
+yq
 
 ## Brew Casks
 chromium (w/ --no-quarantine flag)
@@ -38,6 +39,7 @@ ivpn
 keepassxc
 libreoffice-still
 makemkv
+openmtp
 orbstack
 qbittorrent
 temurin
