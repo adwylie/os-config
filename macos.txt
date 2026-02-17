@@ -9,6 +9,7 @@ steam
 
 ## Brew
 borgbackup
+cmake
 eye-d3
 ffmpeg
 git
@@ -26,11 +27,13 @@ wget
 yq
 
 ## Brew Casks
+anki
 calibre
 chromium (w/ --no-quarantine flag)
 crossover
 discord
 firefox
+flux-app
 font-fira-code
 foobar2000
 gimp
