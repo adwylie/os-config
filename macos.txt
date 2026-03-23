@@ -28,6 +28,7 @@ yq
 
 ## Brew Casks
 anki
+balenaetcher
 calibre
 chromium (w/ --no-quarantine flag)
 crossover
@@ -42,6 +43,7 @@ iina
 iterm2
 ivpn
 keepassxc
+kicad
 libreoffice-still
 makemkv
 openmtp
