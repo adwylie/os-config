@@ -12,6 +12,7 @@ borgbackup
 cmake
 eye-d3
 ffmpeg
+flac
 git
 gnuplot
 helm
