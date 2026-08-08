@@ -3,6 +3,7 @@
 ## Installers
 filezilla
 hhkb
+ivpn
 musicbrainz-picard
 steam
 
@@ -26,8 +27,10 @@ talosctl
 watch
 wget
 yq
+yt-dlp
 
 ## Brew Casks
+adobe-acrobat-reader
 anki
 balenaetcher
 calibre
@@ -42,7 +45,6 @@ gimp
 handbrake-app
 iina
 iterm2
-ivpn
 keepassxc
 kicad
 libreoffice-still
@@ -52,6 +54,10 @@ orbstack
 qbittorrent
 temurin
 vscodium
+
+darktable
+digikam
+rawtherapee
 
 
 # Configuration
