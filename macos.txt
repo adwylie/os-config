@@ -11,6 +11,7 @@ steam
 ## Brew
 borgbackup
 cmake
+cppcheck
 eye-d3
 ffmpeg
 flac
@@ -19,6 +20,7 @@ gnuplot
 helm
 kubernetes-cli
 ledger
+llvm
 nvm
 pnpm
 shntool
