@@ -54,6 +54,7 @@ makemkv
 openmtp
 orbstack
 qbittorrent
+tailscale-app
 temurin
 vscodium
 
