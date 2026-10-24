@@ -4,7 +4,9 @@
 filezilla
 hhkb
 ivpn
+makemkv
 musicbrainz-picard
+qbittorrent
 steam
 
 
@@ -36,7 +38,6 @@ adobe-acrobat-reader
 anki
 balenaetcher
 calibre
-chromium (w/ --no-quarantine flag)
 crossover
 discord
 firefox
@@ -50,17 +51,12 @@ iterm2
 keepassxc
 kicad
 libreoffice-still
-makemkv
 openmtp
 orbstack
-qbittorrent
+rawtherapee
 tailscale-app
 temurin
 vscodium
-
-darktable
-digikam
-rawtherapee
 
 
 # Configuration
