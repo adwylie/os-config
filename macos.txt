@@ -8,6 +8,7 @@ makemkv
 musicbrainz-picard
 qbittorrent
 steam
+yubico authenticator
 
 
 ## Brew
